@@ -11,7 +11,6 @@ LinkedIn | https://www.linkedin.com/in/olena-artiukh-dyskant-75a946b6/
 Telegram | https://t.me/ellen_artiukh
 GitHub | https://github.com/olenadyskant
 
---------------------------------------------------------------------------------------------------------------------------------
 
 ### Summary
 My main goal is to become a qualified Frontend-End Developer. Also, I truly would like to help people like me discovering, learning and improving their software development skills. I consider myself hardworking, very self-motivated and sociable person. I decided to dedicate my life to IT, as I consider this a useful and exciting activity.
